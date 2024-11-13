@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"  # Set to the directory where your `requirements.txt` or `pyproject.toml` is located
+    schedule:
+      interval: "weekly"  # You can also set this to "daily" or "monthly"
