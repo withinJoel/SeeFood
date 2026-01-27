@@ -1,10 +1,11 @@
-# SeeFood
+# AI-Food-Classifier
 * Made with 💖 by Joel Jolly
 
 # About
-* Welcome to SeeFood! 🚀 A cutting-edge web application designed to revolutionize the way you discover and enjoy food. Built using Python and Flask, SeeFood harnesses the power of modern technology to deliver a seamless and intuitive user experience.
+* 🚀 A cutting-edge web application designed to revolutionize the way you discover and enjoy food.
+
 # Support Me
-If you love SeeFood and want to keep me caffeinated for more awesome updates, consider buying me a coffee!
+If you love AI-Food-Classifier and want to keep me caffeinated for more awesome updates, consider buying me a coffee!
 
 # Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=withinjoel/seefood&type=Timeline)](https://star-history.com/#withinjoel/seefood&Timeline)
